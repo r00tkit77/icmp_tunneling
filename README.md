@@ -1,5 +1,5 @@
- 
-
+<b>Project Objective:</b> To establish a covert communication channel between 2 hosts and transfer files using ICMP tunneling.
+<br><br>
 <b>Features:</b>
 
 Stealth: Implement covert file transfer using ICMP Echo Request payloads. 
